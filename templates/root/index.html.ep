@@ -1,0 +1,4 @@
+% layout 'default';
+
+<h1><i class="fa fa-smile-o fa-spin"></i> Hello there.</h1>
+<p>You might want to access <a href="/user">/user</a> to see how this sample works.</p>

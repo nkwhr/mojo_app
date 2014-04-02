@@ -1,0 +1,16 @@
+body {
+  padding-top: 60px;
+}
+
+input[type="submit"].nodecoration {
+  color: #008cba;
+  text-decoration: none;
+  padding: 0px;
+  border: 0px;
+  background-color: initial;
+}
+
+input[type="submit"].nodecoration:hover {
+  color: #00526e;
+  text-decoration: underline;
+}

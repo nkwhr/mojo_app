@@ -1,0 +1,5 @@
+.DS_Store
+local/
+log/*.log
+db/*.sqlite3
+public/packed/
